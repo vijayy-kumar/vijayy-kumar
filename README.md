@@ -64,24 +64,24 @@
 ## 🚀 Projects
 🔹 **Calculator Web App**  
 → Real-time calculations, keyboard support, custom logic (no eval)  
-🔗[Live Demo](https://vijay-kumar0.github.io/Calculator/)
+🔗[Live Demo](https://vijayy-kumar.github.io/Calculator/)
 
 🔹 **Portfolio Website**  
 → Responsive UI showcasing projects & skills  
-🔗[Live Demo](https://vijay-kumar0.github.io/My-Portfolio/)
+🔗[Live Demo](https://vijayy-kumar.github.io/My-Portfolio/)
 
 ---
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-snake-light.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/vijayy-kumar/vijayy-kumar/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/vijayy-kumar/vijayy-kumar/output/github-snake-light.svg#gh-light-mode-only" />
 </p>
 
 ---
 ## 🔗 Connect With Me
 <p align="center">
 
-<a href="https://github.com/vijay-kumar0">
+<a href="https://github.com/vijayy-kumar">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
