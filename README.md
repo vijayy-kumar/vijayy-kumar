@@ -1,106 +1,192 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Vijay%20Kumar&fontSize=35&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h2 align="center">Hi 👋 I'm Vijay Kumar</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayy-kumr&color=blue" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VIJAY%20KUMAR&fontAlign=50&fontAlignY=38&color=0:050816,50:0B1023,100:111827&fontColor=00E5FF&fontSize=45&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Dark+%26+Logic-Driven+Systems;Minimal+Architecture+%7C+Clean+Execution;Cyberpunk+UI+Engineer"/>
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R4OHl0eTN6eGZ0djQ2NnVjcmJ4ZW02Nzd5Nm92d2t4M3Z0cTI4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
 
 <p align="center">
-  <b>Aspiring Software Developer | Building Clean & Functional Projects</b>
+  <img src="https://komarev.com/ghpvc/?username=vijayy-kumar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Problem+Solving;Building+Projects" />
-</p>
+
+</div>
 
 ---
 
-## ⚡ About Me
+# ⚡ SYSTEM INITIALIZATION
 
-- 🎓 BCA Student  
-- 💻 Focused on Web Development  
-- 🚀 Learning by building real projects  
-- 🧠 Improving logic & problem-solving  
-
----
-
-## 🛠️ Skill & Tech
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode" />
-</p>
-
----
-## ⚡ Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+```bash
+> booting developer profile...
+> loading modules...
+> verifying architecture...
+> access granted
+```
 
 ---
 
-## 🧰 Tools & Platforms
+# 👨‍💻 IDENTITY
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+```yaml
+Name: Vijay Kumar
+Role: Full Stack Developer
+Focus:
+  - Web Development
+  - System Design
+  - Clean UI Architecture
+  - Logic Building
+Mindset:
+  - Minimal over bloated
+  - Systems over shortcuts
+  - Consistency over hype
+```
+
+---
+
+# 🎯 CURRENT FOCUS
+
+```bash
+> Building MERN stack projects
+> Improving frontend animation systems
+> Learning scalable backend architecture
+> Practicing problem solving daily
+```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-kumar0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-kumar0&theme=tokyonight&hide_border=true" height="150"/>
-</p
-<br>
+# 🧩 TECH STACK
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+
+</div>
 
 ---
-## 🚀 Projects
-🔹 **Calculator Web App**  
-→ Real-time calculations, keyboard support, custom logic (no eval)  
-🔗[Live Demo](https://vijayy-kumar.github.io/Calculator/)
 
-🔹 **Portfolio Website**  
-→ Responsive UI showcasing projects & skills  
-🔗[Live Demo](https://vijayy-kumar.github.io/My-Portfolio/)
+# 🚀 FEATURED PROJECTS
 
----
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vijayy-kumar/vijayy-kumar/output/github-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/vijayy-kumar/vijayy-kumar/output/github-snake-light.svg#gh-light-mode-only" />
-</p>
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| ⚡ Neo Calculator | Keyboard-driven calculation engine without eval() | HTML • CSS • JavaScript |
+| 🌌 Premium Portfolio | Futuristic responsive portfolio with cinematic UI | React • Tailwind |
+| 🛒 Anime Market | Cyberpunk anime merchandise marketplace | MERN Stack |
+| 🎮 Interactive UI Lab | Experimental animations & modern interfaces | React • GSAP |
+
+</div>
 
 ---
-## 🔗 Connect With Me
-<p align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayy-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayy-kumar&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vijayy-kumar/vijayy-kumar/output/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# ⚔️ ENGINEERING PRINCIPLES
+
+```bash
+> scalable systems
+> reusable components
+> clean architecture
+> performance first
+> silent execution
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
 
 <a href="https://github.com/vijayy-kumar">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/thevijaykumar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:imvksdr@gmail.com@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://vijay-kumar.github.io/My-Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-1e40af?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ⚡ "Consistency beats intensity."
-</p>
+# 🧠 PHILOSOPHY
+
+```bash
+> consistency beats intensity
+> systems create results
+> silence reveals focus
+> logic defeats chaos
+```
+
+---
+
+# 📡 TERMINAL STATUS
+
+```bash
+STATUS  : ONLINE
+FOCUS   : BUILDING
+MODE    : DEEP WORK
+STATE   : EVOLVING
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,50:0B1023,100:111827"/>
+
+### ⚡ "Build silently. Let execution speak."
+
+</div>
