@@ -80,15 +80,107 @@ Mindset:
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| ⚡ Neo Calculator | Keyboard-driven calculation engine without eval() | HTML • CSS • JavaScript |
-| 🌌 Premium Portfolio | Futuristic responsive portfolio with cinematic UI | React • Tailwind |
-| 🛒 Anime Market | Cyberpunk anime merchandise marketplace | MERN Stack |
-| 🎮 Interactive UI Lab | Experimental animations & modern interfaces | React • GSAP |
+<table>
+
+<tr>
+<td width="50%">
+
+## ⚡ Neo Calculator
+
+Minimal keyboard-driven calculator engine with smooth UI interactions.
+
+### ⚙️ Stack
+HTML • CSS • JavaScript
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🌌 Premium Portfolio
+
+Futuristic cinematic portfolio with responsive cyberpunk design.
+
+### ⚙️ Stack
+React • Tailwind • Framer Motion
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🛒 Anime Market
+
+Cyberpunk anime merchandise marketplace with premium UI/UX.
+
+### ⚙️ Stack
+MERN Stack • Stripe • JWT
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🎮 Interactive UI Lab
+
+Experimental animations and modern frontend interaction systems.
+
+### ⚙️ Stack
+React • GSAP • Tailwind
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+
+</table>
 
 </div>
-
 ---
 
 # 📊 GITHUB ANALYTICS
