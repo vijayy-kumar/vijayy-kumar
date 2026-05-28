@@ -184,17 +184,17 @@ React • GSAP • Tailwind
 
 # 📊 GITHUB ANALYTICS
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight&hide_border=true&background=0D1117"/>
-
----
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayy-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayy-kumar&theme=tokyo-night" />
+</p>
 
 </div>
 
