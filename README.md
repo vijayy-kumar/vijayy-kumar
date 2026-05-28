@@ -190,6 +190,10 @@ React • GSAP • Tailwind
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight&hide_border=true&background=0D1117"/>
 
+---
+
+<div align="center">
+
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayy-kumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -236,15 +240,15 @@ React • GSAP • Tailwind
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/thevijaykumar">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:imvksdr@email.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://vijayy-kumar.netlify.com">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
