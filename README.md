@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Dark+%26+Logic-Driven+Systems;Minimal+Architecture+%7C+Clean+Execution;Cyberpunk+UI+Engineer"/>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R4OHl0eTN6eGZ0djQ2NnVjcmJ4ZW02Nzd5Nm92d2t4M3Z0cTI4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayy-kumar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
