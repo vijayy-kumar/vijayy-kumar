@@ -1,4 +1,4 @@
-pb<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VIJAY%20KUMAR&fontAlign=50&fontAlignY=38&color=0:050816,50:0B1023,100:111827&fontColor=00E5FF&fontSize=45&animation=fadeIn"/>
 
@@ -196,23 +196,15 @@ React • GSAP • Tailwind
 
 ---
 
-
 # 📊 GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-  <img
-src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayy-kumar&theme=tokyo-night" />
-</p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -221,7 +213,6 @@ src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons
 # 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayy-kumar&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
