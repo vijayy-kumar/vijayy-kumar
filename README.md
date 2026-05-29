@@ -1,4 +1,4 @@
-<div align="center">
+pb<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=VIJAY%20KUMAR&fontAlign=50&fontAlignY=38&color=0:050816,50:0B1023,100:111827&fontColor=00E5FF&fontSize=45&animation=fadeIn"/>
 
@@ -185,8 +185,11 @@ React • GSAP • Tailwind
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight" />
-</p>
+
+  <img
+src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight" />
