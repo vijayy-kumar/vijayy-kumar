@@ -181,6 +181,64 @@ React • GSAP • Tailwind
 
 </div>
 
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+
+<tr>
+<td width="50%">
+
+## ⚡ Neo Calculator
+
+Minimal keyboard-driven calculator engine with smooth UI interactions.
+
+### ⚙️ Stack
+HTML • CSS • JavaScript
+
+<p align="center">
+
+<a href="https://your-live-demo-link.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🌌 Premium Portfolio
+
+Futuristic cinematic portfolio with responsive cyberpunk design.
+
+### ⚙️ Stack
+React • Tailwind • Framer Motion
+
+<p align="center">
+
+<a href="https://ryuzakii.netlify.com">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vijayy-kumar/project-repo">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ---
 
 
