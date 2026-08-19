@@ -93,7 +93,7 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<a href="https://your-live-demo-link.com">
+<a href="https://web-calculator-projects.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -116,11 +116,11 @@ React • Tailwind • Framer Motion
 
 <p align="center">
 
-<a href="https://ryuzakii.netlify.com">
+<a href="https://vijay-kumarr.netlify.com">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vijayy-kumar/project-repo">
+<a href="https://github.com/vijay-kumarr/project-repo">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -202,10 +202,6 @@ React • GSAP • Tailwind
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayy-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<br><br>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayy-kumar&theme=tokyonight&hide_border=true"/>
 
