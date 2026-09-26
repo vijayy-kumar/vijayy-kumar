@@ -120,7 +120,7 @@ React • Tailwind • Framer Motion
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vijay-kumarr/portfolio">
+<a href="https://github.com/vijay-kumarr/My-portfolio">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
