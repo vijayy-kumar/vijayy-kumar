@@ -132,7 +132,7 @@ React • Tailwind • Framer Motion
 <tr>
 <td width="50%">
 
-## 🛒 Anime Market
+## 🛒 E-commerce website 
 
 Cyberpunk anime merchandise marketplace with premium UI/UX.
 
