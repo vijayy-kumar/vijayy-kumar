@@ -257,7 +257,7 @@ HTML• CSS • JavaScript
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://vijayy-kumar.netlify.com">
+<a href="https://vijayy-kumar.netlify.app">
 <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
