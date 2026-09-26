@@ -112,7 +112,7 @@ HTML • CSS • JavaScript
 Futuristic cinematic portfolio with responsive cyberpunk design.
 
 ### ⚙️ Stack
-React • Tailwind • Framer Motion
+HTML • CSS • JavaScript 
 
 <p align="center">
 
@@ -137,7 +137,8 @@ React • Tailwind • Framer Motion
 Cyberpunk anime merchandise marketplace with premium UI/UX.
 
 ### ⚙️ Stack
-MERN Stack • Stripe • JWT
+
+MERN• HTML • CSS • JavaScript 
 
 <p align="center">
 
@@ -155,20 +156,20 @@ MERN Stack • Stripe • JWT
 
 <td width="50%">
 
-## 🎮 Interactive UI Lab
+## 💻 Password Analyzer
 
-Experimental animations and modern frontend interaction systems.
+A simple password Analyzer
 
 ### ⚙️ Stack
-React • GSAP • Tailwind
+HTML• CSS • JavaScript 
 
 <p align="center">
 
-<a href="https://your-live-demo-link.com">
+<a href="https://Analyzer-pass.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vijayy-kumar/project-repo">
+<a href="https://github.com/vijayy-kumar/Password-Analayzer">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
