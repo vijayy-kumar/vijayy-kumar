@@ -116,7 +116,7 @@ React • Tailwind • Framer Motion
 
 <p align="center">
 
-<a href="https://vijayy-kumar.netlify.com">
+<a href="https://vijayy-kumar.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
