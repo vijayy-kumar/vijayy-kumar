@@ -116,7 +116,7 @@ React • Tailwind • Framer Motion
 
 <p align="center">
 
-<a href="https://vijay-kumarr.netlify.com">
+<a href="https://vijayy-kumar.netlify.com">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -141,11 +141,11 @@ MERN Stack • Stripe • JWT
 
 <p align="center">
 
-<a href="https://your-live-demo-link.com">
+<a href="https://https://nexoraa-in.netlify.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vijayy-kumar/project-repo">
+<a href="https://github.com/vijayy-kumar/E-commerce">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
